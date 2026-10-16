@@ -84,7 +84,7 @@ Formación técnica en IBM z/OS y AWS.</p>
 
 ## Certificaciones y formación técnica
 
-- **IBM:** z/OS Mainframe Practitioner · Introduction to System Programming on IBM Z · Introduction to z/OS Commands and Panels · Z Xplore. En formación: COBOL.
+- **IBM:** [IBM z/OS Mainframe Practitioner](https://www.credly.com/badges/8682fc74-0fe8-4428-a6d8-7e79b9449bdc/public_url) · [IBM Z Xplore - Advanced](https://www.credly.com/badges/6cb7631d-b830-4579-80e0-97698ee967eb/public_url) · [IBM Z Xplore - Concepts](https://www.credly.com/badges/d3bf7552-b680-456c-bb60-b538d0e78258/public_url) · [Introduction to IBM z/OS](https://www.credly.com/badges/96de7b95-3619-42d9-8726-1dab72b7d94f/public_url) · [Introduction to System Programming on IBM Z](https://www.credly.com/badges/9063620e-a741-4793-802f-1c6cbf1eac6e/public_url) · [Introduction to z/OS Commands and Panels on IBM Z](https://www.credly.com/badges/84462685-d177-4d20-b12d-ff830a52250f/public_url) · Z Xplore. En formación: COBOL.
 - **AWS:** despliegue en EC2 y laboratorios en Workshop Studio.
 - Software Engineer · [HackerRank](https://www.hackerrank.com/certificates/iframe/0c97da37c5e6)
 - Back End Development & APIs · [freeCodeCamp](https://www.freecodecamp.org/certification/cristianfarias/back-end-development-and-apis)
