@@ -1,109 +1,95 @@
-<h1 align="center">¡Hola!👋</h1>
+<h1 align="center">¡Hola! 👋</h1>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Soy,+Cristian...;Full+Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Soy+Cristian;Desarrollador+Full-Stack;Java+%7C+Spring+Boot+%7C+React+%7C+Next.js)](https://git.io/typing-svg)
 
 </div>
 
-<p align="center">Construyo sitios y aplicaciones web completas, desde el concepto visual hasta el deployment.  
-Me especializo en interfaces modernas, responsivas y con atención al detalle.  
-Actualmente armando mi propio estudio de desarrollo y diseño web.</p><br> 
+<p align="center">Diseño, desarrollo y despliego aplicaciones web completas, de la interfaz al backend, con foco en rendimiento y seguridad.<br>
+Trabajo con React, Next.js, TypeScript, Java y Spring Boot, y realicé una auditoría de seguridad web con metodología PTES.<br>
+Formación técnica en IBM z/OS y AWS.</p>
 
 ---
 
 <div align="center">
-  
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
 ---
 
-## Últimos Proyectos
+## Proyecto destacado
+
+### Sistema de reservas de asientos con Kafka
+> Control de concurrencia basado en eventos: ante solicitudes simultáneas por un mismo asiento, solo una prospera. Actualización en vivo por WebSocket, 11 tests de integración con Testcontainers y despliegue en AWS EC2.
+
+**Stack:** Java 21 · Spring Boot · Kafka · PostgreSQL · React · Docker · AWS EC2
+
+[![Demo](https://github.com/CRISHFAS/reservas-kafka/raw/main/docs/demo-reservas01.gif)](https://github.com/CRISHFAS/reservas-kafka)
+
+[Ver código y documentación](https://github.com/CRISHFAS/reservas-kafka)
 
 ---
-  
-### SteelCore — Industrial Web Experience
-> Experiencia web industrial moderna enfocada en automatización, ingeniería y energías renovables. Implementación de UI responsive, motion design y branding visual.
- 
-[Ver sitio](https://steel-core.netlify.app/)
- 
----
- 
+
+## Más proyectos
+
 ### Editor Markdown Online
-> Editor moderno, interactivo y en tiempo real para escribir y previsualizar Markdown desde el navegador.
- 
+> Editor con previsualización en tiempo real, ejecutado íntegramente en el navegador. Next.js, React, Tailwind CSS.
+
 [Ver sitio](https://editor-markdown-rho.vercel.app/) · [Ver código](https://github.com/CRISHFAS/Editor-Markdown)
- 
----
- 
-### AXON Estudio — Arquitectura y Construcción
-> Sitio web completo para estudio de arquitectura. Énfasis en diseño visual, galería de proyectos y experiencia de usuario cuidada.
- 
-[Ver sitio](https://axon-estudio.netlify.app/)
- 
----
- 
-### COTA ARQS — Estudio de Arquitectura
-> Presencia web que refleja la filosofía del estudio: diseño que define espacios, arquitectura que inspira vidas.
- 
+
+### SteelCore: Industrial Web Experience
+> Sitio para automatización y energías renovables, con UI responsive y motion design.
+
+[Ver sitio](https://steel-core.netlify.app/)
+
+### COTA ARQS: Estudio de Arquitectura
+> Sitio institucional con galería de proyectos y diseño responsive.
+
 [Ver sitio](https://cota-arqs.netlify.app/)
- 
----
- 
-### Caballo de Hierro — Taller Mecánico
-> Sitio para taller mecánico con performance optimizada, integración de formularios (Formspree + Mailchimp), sistema de comentarios (Disqus) y mejoras de SEO y accesibilidad.
- 
+
+### Caballo de Hierro: Taller Mecánico
+> Sitio optimizado con formularios integrados (Formspree, Mailchimp), comentarios, SEO y accesibilidad.
+
 [Ver sitio](https://caballo-de-hierro.netlify.app/)
- 
+
 ---
- 
-### El Filo — Barbería
-> Sitio para barbería con sliders, carrusel e interacciones dinámicas.
- 
-[Ver sitio](https://el-filo.netlify.app/)
- 
+
+## Seguridad web
+
+- Auditoría de seguridad (prueba de penetración de caja negra, metodología PTES) sobre la infraestructura web de una institución pública, con contrato y autorización formal.
+- 25 hallazgos (6 críticos, 9 altos, 4 medios y 6 informativos), valorados con CVSS v3.1, con cadena de ataque documentada de punta a punta y remediaciones propuestas.
+- Herramientas: Kali Linux, Nmap, Burp Suite, Metasploit, sqlmap y Hydra.
+
 ---
+
 ## Publicaciones técnicas
- 
-Escribo sobre JavaScript, patrones de diseño y buenas prácticas en mi blog.
- 
-- [Patrón Factory Method en TypeScript — Guía completa con ejemplo práctico](https://craffed-blog.hashnode.dev/patron-factory-method-en-typescript)
-- [JavaScript Promises — Dominando la programación asíncrona moderna](https://craffed-blog.hashnode.dev/javascript-promises)
+
+- [Patrón Factory Method en TypeScript: guía completa con ejemplo práctico](https://craffed-blog.hashnode.dev/patron-factory-method-en-typescript)
+- [JavaScript Promises: dominando la programación asíncrona moderna](https://craffed-blog.hashnode.dev/javascript-promises)
+
 ---
- 
-## Certificaciones destacadas
- 
-- Software Engineer — [HackerRank](https://www.hackerrank.com/certificates/iframe/0c97da37c5e6)
-- Software Engineer Intern— [HackerRank](https://www.hackerrank.com/certificates/iframe/98ef4c6b4fac)
-- Back End Development & APIs — [freeCodeCamp](https://www.freecodecamp.org/certification/cristianfarias/back-end-development-and-apis)
-- Responsive Web Design — [freeCodeCamp](https://www.freecodecamp.org/certification/cristianfarias/responsive-web-design)
-- Angular(Intermedio) — [HackerRank](https://www.hackerrank.com/certificates/f28309f3e433)
-- Foundational C# with Microsoft — [freeCodeCamp - Microsoft](https://www.freecodecamp.org/certification/cristianfarias/foundational-c-sharp-with-microsoft)
-- JavaScript(Basic) — [HackerRank](https://www.hackerrank.com/certificates/iframe/f4d83467abb1)
----
- 
-## Cuando no estoy programando suelo estar...
 
-<div align="center">
+## Certificaciones y formación técnica
 
-| Tocando la Batería, | Tocando el Bajo o | Haciendo Arte en Metal |
-|:---:|:---:|:---:|
-| <img src="https://res.cloudinary.com/dqmeq067u/image/upload/v1778543913/drum-hobbie_ggxieh.jpg" width="200" height="200" style="object-fit:cover"/> | <img src="https://res.cloudinary.com/dqmeq067u/image/upload/v1778543832/bass-hobbie_ufbomc.jpg" width="200" height="200" style="object-fit:cover"/> | <img src="https://res.cloudinary.com/dqmeq067u/image/upload/v1778544555/metal-art-hobbie_ifizcf.jpg" width="200" height="200" style="object-fit:cover"/> |
-
-</div>
-
-Y no puede faltar mis dos pasiones de la infancia; el Fútbol ⚽ y el Basquet 🏀 
+- **IBM:** z/OS Mainframe Practitioner · Introduction to System Programming on IBM Z · Introduction to z/OS Commands and Panels · Z Xplore. En formación: COBOL.
+- **AWS:** despliegue en EC2 y laboratorios en Workshop Studio.
+- Software Engineer · [HackerRank](https://www.hackerrank.com/certificates/iframe/0c97da37c5e6)
+- Back End Development & APIs · [freeCodeCamp](https://www.freecodecamp.org/certification/cristianfarias/back-end-development-and-apis)
+- Responsive Web Design · [freeCodeCamp](https://www.freecodecamp.org/certification/cristianfarias/responsive-web-design)
+- Angular (Intermedio) · [HackerRank](https://www.hackerrank.com/certificates/f28309f3e433)
 
 ---
 
