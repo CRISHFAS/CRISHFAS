@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Soy+Cristian;Desarrollador+Full-Stack;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Soy+Cristian;Desarrollador+Full-Stack)](https://git.io/typing-svg)
 
 </div>
 
